@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bt",
+				"btn-primary"
+			],
+			[
+				"nav",
+				"navbar-nav"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"sty",
+				"font-style"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"Flowe",
+				"Flower"
+			],
+			[
+				"pa",
+				"panel"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"btn",
+				"btn-info"
+			],
+			[
+				"btn-s",
+				"btn-sucess"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"for",
+				"form-group"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"ma",
+				"mark\tTag"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"c",
+				"css"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"a",
+				"align-content"
+			],
+			[
+				"bg",
+				"bgcolor\tAttr"
+			],
+			[
+				"b",
+				"bgcolor\tAttr"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"s",
+				"section\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"last_filter": "indent",
+		"selected_items":
+		[
+			[
+				"indent",
+				"Indexing Status"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/rajashekhary/Downloads/REST-Jersey-Validation-Part-I-master/REST-Jersey-Validation-Part I/src/main/java/org/learn/resource/StudentResource.java",
+		"/D/BootDemo/Enrollment/src/main/java/com/wavelabs/Controller.java",
+		"/E/projectbackup-24-5/Enrollment/src/main/test/com/wavelabs/test/service/ServiceTest.java",
+		"/D/BootDemo/Enrollment/src/main/java/com/wavelabs/service/UserConfiguration.java",
+		"/D/BootDemo/Enrollment/src/main/java/com/wavelabs/dao/UserDao.java",
+		"/E/projectbackup-24-5/Enrollment/src/main/java/com/wavelabs/enrollment/Controller.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/service/SwaggerConfiguration.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/service/UpdatingDetails.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/service/UserConfiguration.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/utility/Helper.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/model/AutherizationTokens.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/enrollment/Controller.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/service/GoogleGeoCode.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/model/Address.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/model/User.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/model/LoginType.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/model/Status.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/model/Gender.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/dao/AddressDao.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/dao/Client.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/dao/Message.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/dao/UserDao.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/dao/UserUpdate.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/service/LoginValidation.java",
+		"/D/ServerSide/Enrollment/src/main/java/com/wavelabs/service/SocialUserDetails.java",
+		"/E/SonarPractice/Sample/src/main/java/SecondExample/Sample/MyResource.java",
+		"/E/SonarPractice/Sample/src/main/java/com/wavelabs/sample/MyResource.java",
+		"/E/EnrollmentAndLogin/src/main/java/com/wavelabs/EnrollmentAndLogin/model/Address.java",
+		"/E/EnrollmentAndLogin/src/main/java/com/wavelabs/EnrollmentAndLogin/dao/UserConfiguration.java",
+		"/D/bootstrap-2017/public/style.css",
+		"/D/bootstrap-2017/public/login.html",
+		"/C/Users/rajashekhary/Downloads/index.html",
+		"/C/Users/rajashekhary/Downloads/REST-Jersey-Validation-Part-I-master/REST-Jersey-Validation-Part I/src/main/java/org/learn/model/Student.java",
+		"/C/Users/rajashekhary/Desktop/AJAX PRACTICE/AJAXFirst.html",
+		"/D/bootstrap-2017/public/appinfo.html",
+		"/C/Users/rajashekhary/Desktop/SecondWebProject/src/main/java/com/wavelabs/SecondWebProject/MyResource.java",
+		"/D/bootstrap-2017/public/index.html",
+		"/D/ServerSide/EnrollmentAndLogin/src/main/java/com/wavelabs/dao/Client.java",
+		"/C/Users/rajashekhary/Downloads/REST-Jersey-Validation-Part-I-master/REST-Jersey-Validation-Part I/src/main/java/org/learn/exception/ApplicationExceptionMapper.java",
+		"/C/Users/rajashekhary/Desktop/index11.html",
+		"/C/Users/rajashekhary/Desktop/secondjs.html",
+		"/C/Users/rajashekhary/Desktop/FirstAjax.html",
+		"/C/Users/rajashekhary/Desktop/facebooklogin.html",
+		"/D/bootstrap-2017/public/modellogin.html",
+		"/D/bootstrap-2017/public/registration.html",
+		"/D/BOOTSTRAP-TRAINING/Messaging/index.html",
+		"/D/BOOTSTRAP-TRAINING/Messaging/appinfo.html",
+		"/D/BOOTSTRAP-TRAINING/Messaging/style.css",
+		"/D/BOOTSTRAP-TRAINING/progressbar.html",
+		"/D/BOOTSTRAP-TRAINING/Messaging/login.html",
+		"/D/BOOTSTRAP-TRAINING/Messaging/registration.html",
+		"/D/BOOTSTRAP-TRAINING/Modellogin.html",
+		"/D/BOOTSTRAP-TRAINING/scrollspy.html",
+		"/D/BOOTSTRAP-TRAINING/dropdowns.html",
+		"/D/BOOTSTRAP-TRAINING/CODING/Tables.html",
+		"/D/BOOTSTRAP-TRAINING/CODING/Buttonloading.html",
+		"/D/BOOTSTRAP-TRAINING/CODING/Buttonrefreshing.html",
+		"/D/BOOTSTRAP-TRAINING/componets/ButtonDropdowns.html",
+		"/D/BOOTSTRAP-TRAINING/Navigations.html",
+		"/D/BOOTSTRAP-TRAINING/Carosulexample.html",
+		"/D/BOOTSTRAP-TRAINING/icancode.html",
+		"/D/BOOTSTRAP-TRAINING/Task.html",
+		"/D/BOOTSTRAP-TRAINING/Challenge/Challenge.html",
+		"/D/BOOTSTRAP-TRAINING/Challenge/Challenge practice.html",
+		"/D/BOOTSTRAP-TRAINING/TASK/index.html",
+		"/D/BOOTSTRAP-TRAINING/lables.html",
+		"/D/BOOTSTRAP-TRAINING/badges.html",
+		"/D/BOOTSTRAP-TRAINING/Jumbotron.html",
+		"/D/BOOTSTRAP-TRAINING/AXIS/index.html",
+		"/D/BOOTSTRAP-TRAINING/componets/panel.html",
+		"/D/BOOTSTRAP-TRAINING/navigationbar.html",
+		"/D/BOOTSTRAP-TRAINING/collapseExample.html",
+		"/D/BOOTSTRAP-TRAINING/componets/glyconics.html",
+		"/D/BOOTSTRAP-TRAINING/componets/glyconicsanimation.html",
+		"/D/BOOTSTRAP-TRAINING/componets/style.css",
+		"/D/BOOTSTRAP-TRAINING/componets/Buttons.html",
+		"/D/BOOTSTRAP-TRAINING/Image/SampleImage.html",
+		"/D/BOOTSTRAP-TRAINING/HeadersandFooters.html",
+		"/D/BOOTSTRAP-TRAINING/responsiveutilities.html",
+		"/D/BOOTSTRAP-TRAINING/buttons/buttons.html",
+		"/D/BOOTSTRAP-TRAINING/buttons/ButtonsExample1.html",
+		"/D/BOOTSTRAP-TRAINING/buttons/journal.html",
+		"/D/BOOTSTRAP-TRAINING/index.html",
+		"/D/BOOTSTRAP-TRAINING/Challenge.html",
+		"/D/BOOTSTRAP-TRAINING/buttons/buttonSizes.html",
+		"/D/BOOTSTRAP-TRAINING/example1.html",
+		"/D/BOOTSTRAP-TRAINING/SampleImage.html",
+		"/D/BOOTSTRAP-TRAINING/17-3/forms.html",
+		"/D/BOOTSTRAP-TRAINING/16-3/Style.css",
+		"/D/BOOTSTRAP-TRAINING/16-3/TableGrid.html",
+		"/D/BOOTSTRAP-TRAINING/16-3/descriptions.html",
+		"/D/BOOTSTRAP-TRAINING/16-3/tables.html",
+		"/D/BOOTSTRAP-TRAINING/17-3/formtags.html",
+		"/D/BOOTSTRAP-TRAINING/17-3/SampleRegistrationpage.html",
+		"/D/BOOTSTRAP-TRAINING/17-3/form2.html",
+		"/D/BOOTSTRAP-TRAINING/17-3/inlineform.html",
+		"/D/BOOTSTRAP-TRAINING/16-3/onlyusinghtmltable.html",
+		"/D/BOOTSTRAP-TRAINING/grid.html",
+		"/D/BOOTSTRAP-TRAINING/16-3/leadbodycopy.html",
+		"/D/BOOTSTRAP-TRAINING/16-3/inlinetextelements.html",
+		"/D/BOOTSTRAP-TRAINING/16-3/aligenment.html",
+		"/D/BOOTSTRAP-TRAINING/16-3/codinglabs.html",
+		"/D/BOOTSTRAP-TRAINING/nodeexample.js",
+		"/D/BOOTSTRAP-TRAINING/17-3/SampleLoginpage.html",
+		"/D/BOOTSTRAP-TRAINING/task.css",
+		"/D/BOOTSTRAP-TRAINING/sss.html",
+		"/D/BOOTSTRAP-TRAINING/onlyhtml.html",
+		"/D/BOOTSTRAP-TRAINING/SecondExample.html",
+		"/D/BOOTSTRAP-TRAINING/Raj.html",
+		"/D/BOOTSTRAP/FirstExample.html",
+		"/D/BOOTSTRAP-TRAINING/16-3/TableGris.html",
+		"/C/Users/rajashekhary/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/C/Users/rajashekhary/AppData/Roaming/Sublime Text 3/Packages/User/main.js",
+		"/D/BOOTSTRAP/SecondExample.html",
+		"/D/BOOTSTRAP/onlyhtml.html",
+		"/D/BOOTSTRAP-TRAINING/rajashekhar",
+		"/D/orderstable.txt",
+		"/D/6-march -2017.txt",
+		"/C/Users/rajashekhary/Desktop/scala notes.scala",
+		"/D/notes1.txt",
+		"/D/notes.txt",
+		"/C/Users/rajashekhary/Desktop/Sample.java",
+		"/C/Users/rajashekhary/Desktop/lamdaExpressions.txt",
+		"/C/Users/rajashekhary/Desktop/login11.html",
+		"/D/Sample.html",
+		"/C/Users/rajashekhary/Documents/PropertiesRead.java",
+		"/C/Users/rajashekhary/Documents/CricketPlayerWithMVC/src/main/java/com/wavelabs/controller/ServiceDispatcherServlet.java",
+		"/C/Users/rajashekhary/Desktop/sample.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"dateOfBirth",
+			"\"",
+			"</",
+			">\n",
+			"we began",
+			"webegan",
+			"we began",
+			"img",
+			"Download",
+			"                        <li><a href=\"file:///D:/BOOTSTRAP-TRAINING/Messaging/login.html\">Login</a></li>\n",
+			">\n",
+			"<li><a href=\"file:///D:/BOOTSTRAP-TRAINING/Messaging/login.html\">Login</a></li>",
+			"   \n",
+			">\n",
+			"<input type=\"\" name=\"\">",
+			"\t\t\n",
+			"responsiv",
+			"</head>",
+			"\n</",
+			"padding-left: 5px;\ncolor: red;\nle",
+			";\n",
+			"</div>\n\t\t</div>",
+			"\n\t\t",
+			"\t\t<div class=\"container-fluid\" style=\"background-color:red;\">  \n",
+			"content",
+			">\n",
+			"bootstrapcss",
+			"d"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
