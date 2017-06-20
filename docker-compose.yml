@@ -1,5 +1,7 @@
-web:
-  build: .
-  ports:
-    - "80:80"
-    
+apache:
+    image: rajashekhary/hari
+    ports:
+        - "80:80"
+    volumes:
+        - .:/var/www/html/project
+        - ./deploy/apache/dev.conf:/etc/apache2/sites-enabled/001-project.conf
